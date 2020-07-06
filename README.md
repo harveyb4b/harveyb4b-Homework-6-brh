@@ -13,7 +13,7 @@ If you want to clear the search menu, click "Start Over"
 <br>
 
 
-## Why should you use the Harvey Work Day Planner?
+## Why should you use the Harvey Weather Forecast
 Let this application keep you focused well planned for any activity or outfit. 
 
 
